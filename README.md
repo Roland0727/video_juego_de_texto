@@ -1,2 +1,5 @@
 # video_juego_de_texto
-Video Juego de Texto
+                                      Video Juego de Texto
+# Este proyecto consiste en un videojuego de texto de recorrer laberintos.
+# Este consistirá de laberintos representados por caracteres ASCII dónde # representará una pared, . un pasillo y P el personaje.
+# Podrás moverte por el mapa usando las teclas ↑ ↓ ← → de tu teclado.
